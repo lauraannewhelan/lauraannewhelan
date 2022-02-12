@@ -24,7 +24,15 @@ Here are some ideas to get you started:
 
 📸  I <b>document</b> a lot of <b>life as a PhD student on Instagram and Twitter (@PhDWithLaura)</b>.
 
-📺  <b>Outside of my work and online life</b>, I spend <i>far too much</i> time at the <b>cinema</b>, watching a multitude of <b>series</b> and <b>reading</b>!
+📺  <b>Outside of my work and online life</b>, I spend <i>far too much</i> time at the <b>cinema</b>, <b>running/doing yoga/pilates</b> and <b>reading</b>!
 
 
+### Highlights ⭐️
+* I am an award winning scientist, with multiple prizes for my research and presentation skills.
+* I am an experienced science science communicator, with >20k followers on Instagram and collaborations with the European Patent Office and the Irish Department of Health.
+* I am lead author on two scientific publications and co author on an additional 5. 
+* I am a senior member of my research group with strong initiative, extensive problem solving skills and experience managing a team. I'm always keen to learn and continually engaging in personal and professional development.
+
+### Eager to Learn 🤓
+At the moment I am extremely eager to improve my Python programming skills with an eye on a future career in academia/tech.
 
