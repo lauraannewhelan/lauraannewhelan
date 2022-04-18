@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 
 ### Highlights ⭐️
-* I am an award winning scientist, with multiple prizes for my research and presentation skills.
-* I am an experienced science science communicator, with >20k followers on Instagram and collaborations with the European Patent Office and the Irish Department of Health.
+* I am an award winning scientist and have been awarded several prizes for my research and presentation skills.
+* I am an experienced science communicator, with >20k followers on Instagram and collaborations with the European Patent Office and the Irish Department of Health.
 * I am lead author on two scientific publications and co author on an additional 5. 
 * I am a senior member of my research group with strong initiative, extensive problem solving skills and experience managing a team. I'm always keen to learn and continually engaging in personal and professional development.
 
