@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖  I'm a <b>final year PhD student</b> in Prof. Jane Farrar's laboratory in the Smurfit Institute of Genetics at <b>Trinity College Dublin.</b>
+👩🏻‍🦰  I'm a <b>Senior Postdoctoral Fellow</b> in Prof. Gianpiero Cavelleri's laboratory in <b>FutureNeuro</b> research centre at RCSI, Dublin. I am also a a postdoctoral researcher in <b>Prof G. Jane Farrar's</b> laboratory in <b>Trinity College Dublin</b>.
 
-👁  My <b>research focuses on diseases that affect the retina</b>, a layer of cells at the back of your eye that allows you to see!
+👁 🧬  My work in <b>FutureNeuro focuses on project management of the Genomic Data Insfrastructure Ireland programme.</b> My <b>research in TCD focuses on diseases that affect the retina</b>. 
 
-🧬  I use various <b>DNA sequencing</b> techniques to look at <b>patient DNA</b> and discover the <b>genetic cause</b> of these diseases. 
 
-📸  I <b>document</b> a lot of <b>life as a PhD student on Instagram and Twitter (@PhDWithLaura)</b>.
+📸  I <b>document</b> a lot of <b>life as a scientist on Instagram and Twitter (@PhDWithLaura)</b>.
 
 📺  <b>Outside of my work and online life</b>, I spend <i>far too much</i> time at the <b>cinema</b>, <b>running/doing yoga/pilates</b> and <b>reading</b>!
 
@@ -30,9 +29,9 @@ Here are some ideas to get you started:
 ### Highlights ⭐️
 * I am an award winning scientist and have been awarded several prizes for my research and presentation skills.
 * I am an experienced science communicator, with >20k followers on Instagram and collaborations with the European Patent Office and the Irish Department of Health.
-* I am lead author on two scientific publications and co author on an additional 5. 
-* I am a senior member of my research group with strong initiative, extensive problem solving skills and experience managing a team. I'm always keen to learn and continually engaging in personal and professional development.
+* I am lead author on two scientific publications and co author on an additional 8. 
+* I am a senior member of my research groups with strong initiative, extensive problem solving skills and experience managing a team. I'm always keen to learn and continually engaging in personal and professional development.
 
 ### Eager to Learn 🤓
-At the moment I am extremely eager to improve my Python programming skills with an eye on a future career in academia/tech.
+At the moment I am extremely eager to gain more senior project manager experience as well as improving my computational skills. 
 
