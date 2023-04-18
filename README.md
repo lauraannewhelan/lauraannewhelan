@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍🦰  I'm a <b>Senior Postdoctoral Fellow</b> in Prof. Gianpiero Cavelleri's laboratory in <b>FutureNeuro</b> research centre at RCSI, Dublin. I am also a a postdoctoral researcher in <b>Prof G. Jane Farrar's</b> laboratory in <b>Trinity College Dublin</b>.
+👩🏻‍🦰  I'm a <b>Senior Postdoctoral Fellow</b> in Prof. Gianpiero Cavelleri's laboratory in <b>FutureNeuro</b> research centre at RCSI, Dublin. I am <b>also a a postdoctoral researcher</b> in <b>Prof G. Jane Farrar's</b> laboratory in <b>Trinity College Dublin</b>.
 
 👁 🧬  My work in <b>FutureNeuro focuses on project management of the Genomic Data Insfrastructure Ireland programme.</b> My <b>research in TCD focuses on diseases that affect the retina</b>. 
 
