@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👁 🧬  My work in <b>FutureNeuro focuses on project management of the Genomic Data Insfrastructure Ireland programme.
 
 
-📸  I <b>document</b> a lot of <b>life as a scientist on Instagram and Twitter (@PLaurasLocus)</b>.
+📸  I <b>document</b> a lot of <b>life as a scientist on Instagram and Twitter (@LaurasLocus)</b>.
 
 📺  <b>Outside of my work and online life</b>, I spend <i>far too much</i> time at the <b>cinema</b>, <b>running</b> and <b>reading</b>!
 
