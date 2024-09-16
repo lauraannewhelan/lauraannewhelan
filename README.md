@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩🏻‍🦰  I'm a <b>Lecturer in Human Genetics and Genomics</> in RCSI University of Medicine and Health Science. 
+👩🏻‍🦰  I'm a <b>Lecturer in Human Genetics and Genomics</b> in RCSI University of Medicine and Health Science. 
 
 🧠 🧬 I also carry out research into data infrastructure, the secondary use of genomic data and rare genetic diseases in the <b>FutureNeuro</b> research centre. 
 
